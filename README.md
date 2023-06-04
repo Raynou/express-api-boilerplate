@@ -8,5 +8,5 @@
 
 En `database/schema.sql` esta la definción del esquema de base de datos, puede modificarlo a conveniencia y ejecutarlo con:
 ```SQL 
-mysql -u `usuario` -p`contraseña` `nombre de la base de datos` < ./database/schema.sql. 
+mysql -u `usuario` -p`contraseña` `nombre de la base de datos` < ./database/schema.sql
 ```
